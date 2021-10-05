@@ -11,7 +11,7 @@ node{
    stage('Build Docker Image'){
    sh ' docker build -t pushagal/jenkins3 . '
    }
-   stage('Docker Image Push'){
+   stage('Docker Image Push to Docker Hub'){
    withCredentials([string(credentialsId: 'dockerPass', variable: 'dockerPassword')]) {
    sh "docker login -u pushagal -p ${dockerPassword}"
     }
