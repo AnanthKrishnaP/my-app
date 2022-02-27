@@ -6,7 +6,7 @@ public class Calculator {
 	/*
 	 * @parameter i
 	 * @parameter j
-	 * @return integer
+	 * @return integer pushparaj
 	 */
 	public int add(int i, int j){
 		String s = null;
