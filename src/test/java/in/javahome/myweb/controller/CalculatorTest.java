@@ -22,12 +22,12 @@ public class CalculatorTest extends TestCase {
 
 			output = new FileOutputStream("../config.properties");
 
-			// set the properties value
+			// set the properties values
 			prop.setProperty("database", "localhost");
 			prop.setProperty("dbuser", "hari");
 			prop.setProperty("dbpassword", "password");
 
-			// save properties to project root folder
+			// save properties to project root folders
 			prop.store(output, null);
 
 		}catch(
