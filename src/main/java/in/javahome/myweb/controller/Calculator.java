@@ -6,7 +6,7 @@ public class Calculator {
 	/*
 	 * @param i
 	 * @parameter j
-	 * @return int
+	 * @return integer
 	 */
 	public int add(int i, int j){
 		String s = null;
