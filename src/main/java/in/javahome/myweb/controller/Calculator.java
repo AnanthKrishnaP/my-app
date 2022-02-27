@@ -6,7 +6,7 @@ public class Calculator {
 	/*
 	 * @parameter i
 	 * @parameter j
-	 * @return integer pushparaj
+	 * @return integer pushparaj Agalya
 	 */
 	public int add(int i, int j){
 		String s = null;
