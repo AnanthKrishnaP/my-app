@@ -5,8 +5,8 @@ package in.javahome.myweb.controller;
 public class Calculator {
 	/*
 	 * @parameter i
-	 * @parameter j
-	 * @return integer pushparaj Agalya
+	 * @param j
+	 * @return int 
 	 */
 	public int add(int i, int j){
 		String s = null;
