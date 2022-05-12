@@ -1,1 +1,1 @@
-### Welcome to green Tech
+### Welcome to green Technology
