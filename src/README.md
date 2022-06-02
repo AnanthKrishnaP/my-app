@@ -1,1 +1,1 @@
-Welcome to Greens Technology
+Welcome
